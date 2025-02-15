@@ -1,8 +1,9 @@
 {
+    "version": 2,
     "git": {
-      "deploymentEnabled": {
-        "main": false,
-        "production": false
-      }
-    }
+      "deploymentEnabled": false
+    },
+    "builds": [],
+    "routes": []
   }
+  
